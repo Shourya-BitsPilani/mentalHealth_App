@@ -69,6 +69,7 @@ Ensure you have the following installed:
 
 ---
 This chatbot is a great example of running **AI models locally** for personal or enterprise use without cloud dependency.
+it facilitates an insightful conversation between AI and user.
 
 
 Group: Penguin
