@@ -1,6 +1,6 @@
 # Mental Health App AI Chatbot
 
-This is a locally hosted AI chatbot built using Flask and SQLite. The chatbot utilizes **Ollama LLaMA 3 3B** model running on a local machine. The application provides a user authentication system, stores chat history, and allows users to log in to view past conversations.
+This is a locally hosted AI chatbot built using Flask and SQLite. The chatbot utilizes **Ollama LLaMA 3.2 3B** model running on a local machine. The application provides a user authentication system, stores chat history, and allows users to log in to view past conversations.
 
 ## Features
 - **User Authentication**: Users must sign up or log in before accessing the chatbot.
