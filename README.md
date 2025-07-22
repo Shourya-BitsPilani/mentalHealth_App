@@ -73,5 +73,5 @@ it facilitates an insightful conversation between AI and user.
 
 
 Group: Penguin
-Rishabh, Pratosh, Harshal, Praneeth
+Rishabh, Shourya, Harshal, Praneeth, Pratosh 
 for query mail : 2022A3PS0485H
